@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>obrazok1013.png</filename>
+	<path>C:\Users\admin\Documents\TENSOR\videa\LOCALOBRAZKYzVIDEA\VID_20201025_165245\test\obrazok1013.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>87</ymin>
+			<xmax>266</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
