@@ -1,0 +1,38 @@
+<annotation>
+	<folder>OBRAZKYnaUCENIE</folder>
+	<filename>obrazok549.png</filename>
+	<path>C:\Users\pregec\DOCUMENTS_OFF1\SUBORY\PERSONAL-2\POCITACOVE VIDENIE\fotky\OBRAZKYnaUCENIE\obrazok549.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>140</ymin>
+			<xmax>381</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>144</ymin>
+			<xmax>424</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

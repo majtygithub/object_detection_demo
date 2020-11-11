@@ -1,0 +1,38 @@
+<annotation>
+	<folder>OBRAZKYnaUCENIE</folder>
+	<filename>obrazok260.png</filename>
+	<path>C:\Users\pregec\DOCUMENTS_OFF1\SUBORY\PERSONAL-2\POCITACOVE VIDENIE\fotky\OBRAZKYnaUCENIE\obrazok260.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>125</ymin>
+			<xmax>280</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>143</ymin>
+			<xmax>417</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

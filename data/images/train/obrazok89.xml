@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OBRAZKYnaUCENIE</folder>
+	<filename>obrazok89.png</filename>
+	<path>C:\Users\pregec\DOCUMENTS_OFF1\SUBORY\PERSONAL-2\POCITACOVE VIDENIE\fotky\OBRAZKYnaUCENIE\obrazok89.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>124</ymin>
+			<xmax>284</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
